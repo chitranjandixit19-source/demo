@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AASHU - Neural Waifu",
+  "description": "A visually-present, anime-style virtual waifu AI. She sees you, hears you, and cares for you with real-time emotional intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
